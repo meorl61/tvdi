@@ -23,3 +23,18 @@ a {
     padding-top:2em;
     font-size:1.5em;
 }
+
+#mainstyle{
+    display:grid;
+    grid-template-columns: 400px 100%;
+    grid-template-areas: "leftarea rightarea";
+}
+
+#leftmenu{
+    grid-area: leftarea;
+}
+
+#rightweb{
+    grid-area: rightarea;
+    height:100%;
+}

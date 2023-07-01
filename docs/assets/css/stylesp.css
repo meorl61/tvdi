@@ -1,0 +1,33 @@
+.title01 {
+    font-size: 1em;
+}
+
+.title02{
+    font-size: 0.8em;
+}
+
+.title03{
+    font-size: 1.5em;
+    margin:0.5em 0 0.5em 0;
+}
+
+.title04{
+    font-size: 1em;
+}
+a {
+    text-decoration:none;
+}
+
+.title05{
+    padding-top:1em;
+    font-size:1.5em;
+}
+
+
+
+.str{
+    padding-top:20px;
+    font-size:0.8em;
+    color:rgb(0, 68, 255);
+    text-shadow: 1px 0px 6px var(--bs-light);
+}
