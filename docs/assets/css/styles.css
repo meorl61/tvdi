@@ -1,0 +1,25 @@
+.title01 {
+    font-size: 2em;
+}
+
+.title02{
+    font-size: 2em;
+    padding-bottom:2em;
+}
+
+.title03{
+    font-size: 2em;
+    margin:0.5em 0 0.5em 0;
+}
+
+.title04{
+    font-size: 1.5em;
+}
+a {
+    text-decoration:none;
+}
+
+.title05{
+    padding-top:2em;
+    font-size:1.5em;
+}
